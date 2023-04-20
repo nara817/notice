@@ -11,9 +11,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <script src="${contextPath}/resources/js/lib/jquery-3.6.4.min.js"></script>
-<script src="${contextPath}/resources/summernote-0.8.18-dist/summernote-lite.min.js"></script>
-<script src="${contextPath}/resources/summernote-0.8.18-dist/lang/summernote-ko-KR.min.js"></script>
-<link rel="stylesheet" href="${contextPath}/resources/summernote-0.8.18-dist/summernote-lite.min.css">
+
 </head>
 <style>
 	tbody tr:hover {
@@ -30,7 +28,7 @@
 </script>
 <body>
 <h2>고양이 상사에 오신 걸 환영합니다</h2>
-<img alt="고양이" src="resources/images/cat.jpg" width="300" >
+<img alt="고양이" src="${contextPath}/resources/images/cat.jpg" width="300" >
 
 	<hr>
 	
