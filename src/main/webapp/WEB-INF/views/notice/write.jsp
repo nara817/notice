@@ -42,10 +42,6 @@
 				<input type="text" id="title" name="title" placeholder="새로운 공지">
 			</div>
 			<div>
-				<label for="writer">작성자</label>
-				<input type="text" id="writer" name="writer">
-			</div>
-			<div>
 				<div><label for="content">내용</label></div>
 				<textarea id="content" name="content" placeholder="새로운 공지입니다"></textarea>  
 			</div>
